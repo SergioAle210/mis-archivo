@@ -1,0 +1,74 @@
+2/07/2024‬ - Clase 1
+
+Repositorios de GitHub
+
+- DEV
+- QA
+- PR
+
+Env
+- Dev
+	- DV
+	- API
+- QA
+	- DB
+	- API
+-PR
+	- DB
+	- API
+
+DEV/OPS, desarrollo y que este integrado en la operación.
+
+El Product backlog se ordena por valor, se ordena en base a lo que el estima en base al valor que el desea.
+
+Todo cambio es bienvenido y se tiene que meter en el product backlog. 
+
+Se empieza a priorizar, en base a las tareas que sean las más básicas, luego se van a pasar a hacer tareas más entretenidas.
+
+Este semestre vamos a construir un dashboard de QA. Saber un termómetro de como esta la calidad del sistema. 
+
+Cuantas pruebas nosotros planificamos y cuantas ejecutamos. Diferentes capas de pruebas. El Dashboard es un repositorio consolidado, pruebas funcionales, no funcionales. 
+
+En un dashboard así va la calidad de mi historia.
+
+La planificación de pruebas y como lo vamos a probar.
+
+Clasificar las pruebas y cuantas pruebas vamos a hacer.
+
+Diferentes de pruebas
+UAT
+ATP
+Unit tests
+
+Cuantos features teníamos planificados y cuantos paso con el fin de que probemos nuestra herramienta.
+
+Process comparison of Toyota
+
+Como se llaman nuestros campos, Work standardization.
+
+Lean Software, para refrescar el tema.
+
+
+---------------------------------------------------------------------------------------------------
+
+5/07/2024 - Clase 2
+
+Desperdicio se le llama merma. 
+
+Fábrica tiene dos tipos:
+- Bajo demanda, entra en pedidos y fabrica los pedidos
+- Capacidad instalada, una capacidad de producción donde tienen una producción constante.
+
+Construir con integridad:
+La herramienta cumpla con principios, tiene que cumplir con la ética.
+
+Ver el todo
+
+
+
+
+
+
+
+
+
